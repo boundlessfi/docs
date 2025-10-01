@@ -7,4 +7,4 @@
 * [Getting Started](getting-started/README.md)
   * [Create an Account](getting-started/create-an-account.md)
   * [Explore Opportunities](getting-started/explore-opportunities.md)
-  * [Join as a Builder, Backer, or Partner](getting-started/join-as-a-builder-backer-or-partner.md)
+  * [Join Boundless: Builder, Backer, or Partner](getting-started/join-boundless-builder-backer-or-partner.md)
