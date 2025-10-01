@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-* [Introduction](readme/README.md)
+* [Introduction](README.md)
   * [What is Boundless?](readme/what-is-boundless.md)
   * [Why Boundless?](readme/why-boundless.md)
   * [Who is it for?](readme/who-is-it-for.md)
+* [Getting Started](getting-started/README.md)
+  * [Create an Account](getting-started/create-an-account.md)
