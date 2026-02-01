@@ -1,0 +1,2 @@
+# Bounty claiming models
+
