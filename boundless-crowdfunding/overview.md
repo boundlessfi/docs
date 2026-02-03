@@ -1,10 +1,13 @@
 ---
-description: Crowdfunding overview and core differentiation.
+description: >-
+  Milestone-based crowdfunding with smart-contract escrow (TrustlessWork),
+  community validation (voting), and backer protection on Stellar (XLM) with
+  stablecoin support.
 ---
 
 # Overview
 
-Boundless Crowdfunding enables **milestone-based funding** with **smart-contract escrow**.
+Boundless Crowdfunding is a **milestone-based crowdfunding platform** with **smart-contract escrow**.
 
 Funds release only after verified delivery.
 
@@ -13,6 +16,15 @@ Funds release only after verified delivery.
 Traditional platforms (Kickstarter, Indiegogo, GoFundMe) have weak enforcement.
 
 Boundless enforces delivery through escrowed tranches.
+
+### Fast summary (keywords)
+
+* **Smart-contract escrow:** Funds lock in **TrustlessWork** escrow.
+* **Milestone-based funding:** Backers fund verified deliverables.
+* **Community validation:** Campaigns can require **on-chain voting** before funding opens.
+* **Backer protection:** Tranche releases, automatic refunds, and dispute handling.
+* **On-chain transparency:** Pledges, releases, and milestone events are recorded on-chain.
+* **Stellar assets:** Designed around **Stellar (XLM)** and stablecoins like **USDC** and **EURC**.
 
 #### The accountability gap
 
@@ -38,6 +50,13 @@ Boundless enforces delivery through escrowed tranches.
 * Milestones per campaign: **2–10**
 * Admin review time: **24–48 hours**
 * Assets: **XLM, USDC, EURC**
+
+### Next steps
+
+* Learn the lifecycle in [Campaign state machine](campaign-state-machine.md).
+* See the technical flow in [System architecture](system-architecture.md).
+* Understand funding mechanics in [Active funding phase](active-funding-phase.md).
+* Dive into safety in [Escrow & financial protection](escrow-and-financial-protection.md).
 
 {% hint style="info" %}
 Version 1.0 — February 02, 2026.
