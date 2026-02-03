@@ -13,11 +13,11 @@ Funds release only after verified delivery.
 
 ### What makes it different
 
-Traditional platforms (Kickstarter, Indiegogo, GoFundMe) have weak enforcement.
+Traditional platforms have weak enforcement.
 
 Boundless enforces delivery through escrowed tranches.
 
-### Fast summary (keywords)
+###
 
 * **Smart-contract escrow:** Funds lock in **TrustlessWork** escrow.
 * **Milestone-based funding:** Backers fund verified deliverables.
